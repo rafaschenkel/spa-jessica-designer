@@ -1,0 +1,20 @@
+.inner-instagram {
+    display: flex;
+    gap: 14px;
+}
+
+.item-instagram {
+    min-width: 300px;
+    min-height: 250px;
+}
+
+@media screen and (max-width: 475px) {
+    .item-instagram {
+        min-width: 150px;
+    }
+}
+
+.carousel-instagram {
+    cursor: grab;
+    overflow: hidden;
+}

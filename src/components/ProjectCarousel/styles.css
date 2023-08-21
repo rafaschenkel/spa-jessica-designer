@@ -1,0 +1,19 @@
+.inner-carousel {
+    display: flex;
+}
+
+.item-carousel {
+    min-width: 450px;
+    min-height: 250px;
+}
+
+@media screen and (max-width: 475px) {
+    .item-carousel {
+        min-width: 250px;
+    }
+}
+
+.carousel-carousel {
+    cursor: grab;
+    overflow: hidden;
+}
