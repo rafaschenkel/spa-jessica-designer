@@ -20,7 +20,7 @@ export const Image = styled.img`
     pointer-events: none;
 
     @media screen and (max-width: 475px) {
-        height: 200px;
+        height: 250px;
     }
 `;
 

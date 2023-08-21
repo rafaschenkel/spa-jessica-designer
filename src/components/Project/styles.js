@@ -22,7 +22,7 @@ export const Image = styled.img`
     height: 350px;
 
     @media screen and (max-width: 475px) {
-        height: 200px;
+        height: 250px;
     }
 `;
 

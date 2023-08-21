@@ -25,13 +25,15 @@ import betinaCarousel2 from '../../assets/img/project-betina/carousel-2.png';
 import betinaCarousel3 from '../../assets/img/project-betina/carousel-3.png';
 import betinaCarousel4 from '../../assets/img/project-betina/carousel-4.png';
 import betinaCarousel5 from '../../assets/img/project-betina/carousel-5.png';
+import betinaCarousel6 from '../../assets/img/project-betina/carousel-6.png';
 
 const imagesCarouselBetina = [
     betinaCarousel1,
     betinaCarousel2,
     betinaCarousel3,
     betinaCarousel4,
-    betinaCarousel5
+    betinaCarousel5,
+    betinaCarousel6
 ];
 
 import betinaInstagram1 from '../../assets/img/project-betina/betina-instagram1-min.png';
