@@ -18,6 +18,9 @@ export const Link = styled.a`
     color: #fff;
     transition: all 0.3s linear;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 
     &:hover {
         color: #72008f;
