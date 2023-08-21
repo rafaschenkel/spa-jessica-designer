@@ -33,4 +33,8 @@ export const ListContactItems = styled.ul`
         flex-direction: column;
         padding: 40px 0;
     }
+
+    @media screen and (max-width: 900px) {
+        justify-content: center;
+    }
 `;

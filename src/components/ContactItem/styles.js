@@ -21,6 +21,7 @@ export const Link = styled.a`
     display: flex;
     flex-direction: column;
     gap: 10px;
+    align-items: center;
 
     &:hover {
         color: #72008f;
