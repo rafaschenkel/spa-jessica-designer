@@ -1,0 +1,35 @@
+{
+    "betina": {
+        "mockups": [
+            { "url": "/img/project-betina/project-betina-0-min.png" },
+            { "url": "/img/project-betina/project-betina-1-min.png" },
+            { "url": "/img/project-betina/project-betina-2-min.png" },
+            { "url": "/img/project-betina/project-betina-3-min.png" },
+            { "url": "/img/project-betina/project-betina-4-min.png" },
+            { "url": "/img/project-betina/project-betina-5-min.png" },
+            { "url": "/img/project-betina/project-betina-6-min.png" }
+        ],
+        "carousels": [
+            { "url": "/img/project-betina/carousel-1.png" },
+            { "url": "/img/project-betina/carousel-2.png" },
+            { "url": "/img/project-betina/carousel-3.png" },
+            { "url": "/img/project-betina/carousel-4.png" },
+            { "url": "/img/project-betina/carousel-5.png" },
+            { "url": "/img/project-betina/carousel-6.png" }
+        ],
+        "posts": [
+            { "url": "/img/project-betina/betina-instagram1-min.png" },
+            { "url": "/img/project-betina/betina-instagram2-min.png" },
+            { "url": "/img/project-betina/betina-instagram3-min.png" }
+        ]
+    },
+    "mariane": {
+        "mockups": [
+            { "url": "/img/project-mariane/project-mariane-0-min.png" },
+            { "url": "/img/project-mariane/project-mariane-1-min.png" },
+            { "url": "/img/project-mariane/project-mariane-2-min.png" },
+            { "url": "/img/project-mariane/project-mariane-3-min.png" },
+            { "url": "/img/project-mariane/project-mariane-4-min.png" }
+        ]
+    }
+}
